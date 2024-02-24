@@ -1,0 +1,57 @@
+.about-me-section {
+    background-color: #323f4b;
+
+}
+
+.image {
+    width: 100%;
+}
+
+.heading {
+    color: yellow;
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.sub {
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.description {
+    color: #9aa5b1;
+    font-size: 19px;
+    font-style;
+    "Roboto">
+}
+
+.Skills-section {
+    background-color: #1f2933;
+}
+
+.skills-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skills-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.skills-card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.skills-card-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
